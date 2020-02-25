@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "886011020027",
+    "firebase_url": "https://androidslotsgame.firebaseio.com",
+    "project_id": "androidslotsgame",
+    "storage_bucket": "androidslotsgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886011020027:android:337b47a95ab1636995265e",
+        "android_client_info": {
+          "package_name": "com.brian.androidslots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886011020027-rmoeke4h4rih2csj509qds5a2pdoc5d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx9fIQZmzwlbbyRNuhc8j0Ly7FRZOeXbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886011020027-rmoeke4h4rih2csj509qds5a2pdoc5d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886011020027:android:454f71b5484fe33e95265e",
+        "android_client_info": {
+          "package_name": "com.brian.androidslotsgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886011020027-rmoeke4h4rih2csj509qds5a2pdoc5d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx9fIQZmzwlbbyRNuhc8j0Ly7FRZOeXbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886011020027-rmoeke4h4rih2csj509qds5a2pdoc5d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
